@@ -7,6 +7,8 @@
 玩法：通过点击鼠标左键让flappybird跳跃起来以防止碰到管道，一旦碰到管道flappy bird将死亡。
 
 ## 游戏设计
+![](images/game.png)
+
 ### 1：flappy bird<br/>
 ![](images/bird.png)<br/>
  Attributes:(30,256)<br/>
